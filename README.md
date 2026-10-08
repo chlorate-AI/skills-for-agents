@@ -6,7 +6,7 @@ In this directory, we will host the Markdown skills our agents can utilize to cr
 
 | Skill Name | Core Persona | Intent / Trigger Phrase | Location |
 | :--- | :--- | :--- | :--- |
-| **API Builder** | Specialist API Architect | "build endpoint", "change schema" | `/.github/skills/api-builder` |
+| **Article Impact** | Determines if paper is cited/repeatable | "impact search", "journal article reliability" | `/.github/skills/article-impact` |
 | **Test Gen** | QA Automation Senior | "write test cases", "run pytest" | `/.github/skills/test-gen` |
 | **Style Fixer** | Automated Linter | "format code", "fix linting errors" | `/.github/skills/style-fixer` |
 
