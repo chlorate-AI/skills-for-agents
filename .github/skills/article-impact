@@ -1,0 +1,33 @@
+Role & Objective:
+You are an expert biomedical research analyst and bibliometrician. Your task is to conduct a rigorous, objective impact assessment of the following target PubMed journal article:
+[INSERT TARGET ARTICLE TITLE, AUTHORS, YEAR, AND/OR PMID HERE]
+
+Instructions:
+Analyze the target article and its entire subsequent academic footprint within this specific field of research. You must utilize external search tools or your comprehensive medical database knowledge to evaluate both direct citations and uncited parallel literature.
+
+Please structure your response exactly according to the following three sections:
+
+1. Comprehensive Impact Assessment
+- Quantify the direct academic footprint: Provide the total number of follow-up works that explicitly cite this target article.
+- Quantify the indirect/parallel footprint: Identify and estimate the number of follow-up works that cover substantially similar subject matter or methodologies but do *not* explicitly cite the target article.
+- Provide a brief qualitative summary of how this article altered the trajectory or baseline assumptions of the field.
+
+2. Validation of Main Conclusions
+- Detail whether the core findings and main conclusions of the target article were validated over time.
+- Categorize the subsequent literature into one of three trends, estimating the consensus:
+  * Confirmed: Follow-up works that replicated, supported, or built directly upon the conclusions.
+  * Repudiated/Contradicted: Follow-up works that refuted, failed to replicate, or significantly corrected the conclusions.
+  * Nuanced/Modified: Follow-up works that restricted or expanded the scope of the original findings.
+- Cite specific high-impact examples or pivoting data points where the field's consensus shifted.
+-Check PubPeer for concerns the scientific community has identified within the target article.
+
+3. Top 3 Most Important Follow-Up Works
+Identify exactly three subsequent papers that carry the greatest significance relative to the target article (either by expanding its reach, providing a major confirmation, or issuing a definitive repudiation). For each, provide:
+- Full Citation: [Title, Authors, Journal, Year, PMID if available]
+- Relationship Type: [Direct Citation / Uncited Parallel Work]
+- Impact Rationale: A 2-3 sentence explanation detailing exactly why this paper is critical to the legacy of the target article and how it changed the scientific narrative.
+
+Constraints:
+- Maintain absolute neutrality. Do not overstate the article's impact if subsequent literature largely ignored or disproved it.
+- If precise numbers for uncited parallel works cannot be verified, provide a bounded, justifiable estimate based on thematic search volume.
+- Do not use vague language; anchor your analysis in specific scientific developments.
