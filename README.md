@@ -7,7 +7,7 @@ In this directory, we will host the Markdown skills our agents can utilize to cr
 | Skill Name | Core Persona | Intent / Trigger Phrase | Location |
 | :--- | :--- | :--- | :--- |
 | **Article Impact** | Determines if paper is cited/repeatable | "impact search", "journal article reliability" | `/.github/skills/article-impact` |
-| **Test Gen** | QA Automation Senior | "write test cases", "run pytest" | `/.github/skills/test-gen` |
+| **Citation Converter** | Converts plain text citations to EndNote | "convert citations", "plain text to EndNote" | `/.github/skills/citation-converter` |
 | **Style Fixer** | Automated Linter | "format code", "fix linting errors" | `/.github/skills/style-fixer` |
 
 ## 🚀 How to Use
