@@ -8,7 +8,7 @@ In this directory, we will host the Markdown skills our agents can utilize to cr
 | :--- | :--- | :--- | :--- |
 | **Article Impact** | Determines if paper is cited/repeatable | "impact search", "journal article reliability" | `/.github/skills/article-impact` |
 | **Citation Converter** | Converts plain text citations to EndNote | "convert citations", "plain text to EndNote" | `/.github/skills/citation-converter` |
-| **Style Fixer** | Automated Linter | "format code", "fix linting errors" | `/.github/skills/style-fixer` |
+| **Novelty Assessment** | Determines what was already done| "what is known", "who did this" | `/.github/skills/novelty-assessment` |
 
 ## 🚀 How to Use
 
