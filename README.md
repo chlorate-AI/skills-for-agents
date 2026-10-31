@@ -1,4 +1,4 @@
-Zurawski Lab Agent Skills
+## **Zurawski Lab Agent Skills**
 
 In this directory, we will host the Markdown skills our agents can utilize to critically assess the impact and repeatability of manuscripts, critically review grant submissions, and interact with our specific tech stack.
 
@@ -9,6 +9,7 @@ In this directory, we will host the Markdown skills our agents can utilize to cr
 | **Article Impact** | Determines if paper is cited/repeatable | "impact search", "journal article reliability" | `/.github/skills/article-impact` |
 | **Citation Converter** | Converts plain text citations to EndNote | "convert citations", "plain text to EndNote" | `/.github/skills/citation-converter` |
 | **Novelty Assessment** | Determines what was already done| "what is known", "who did this" | `/.github/skills/novelty-assessment` |
+| **Grant Red Team** | Assesses grant proposal from perspective of NIH study section reviewer| "grant review", "red team" | `/.github/skills/grant-redteam` |
 
 ## 🚀 How to Use
 
